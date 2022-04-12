@@ -1,0 +1,6 @@
+,train,name,mask,weapon
+0,0.2,Raphael,red,sai
+1,0.4,Donatello,purple,bo staff
+,val,name,mask,weapon
+0,0.3,Raphael,red,sai
+1,0.4,Donatello,purple,bo staff
